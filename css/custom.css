@@ -1,0 +1,350 @@
+.pad1{
+	padding-top: 10px;
+}
+
+.text1{
+	font-family: GROBOLD;
+	font-size: 25px;
+	color: #0D47A1;
+	text-decoration: none;
+	
+}
+/* .text1 a {
+	text-decoration: none;
+	color: #0D47A1;
+	font-size: 100px;
+} */
+
+.text1:hover{
+	font-size: 27px;
+	color: #FF9800;
+	text-decoration: none;
+}
+
+.color1{
+	background-color: #90CAF9;
+	color: black;
+}
+
+.info1{
+	color: black;
+	font-family:"cafÈ & brewery";
+	font-size: 40px;
+	padding:80px;
+	text-align: center;
+	letter-spacing: 2px;
+	word-spacing: 6px;
+	line-height: 70px;
+}
+
+.heading{
+	color: #01579B;
+	font-family:"MELANKOLIA";
+	font-size: 40px;
+	padding:20px;
+	text-align: center;
+	letter-spacing: 2px;
+	word-spacing: 6px;
+	
+}
+
+.service_bak{
+	
+	background-image: url("../images/bak.png");
+	background-size:     cover;                      
+    background-repeat:   no-repeat;
+    
+	background-size: contain;
+	background-color: #90CAF9;
+	color: black;
+	font-family:"cafÈ & brewery";
+	font-size: 30px;
+	padding:20px;
+	text-align: left;
+	letter-spacing: 2px;
+	word-spacing: 6px;
+	line-height: 40px;
+}
+.button1{
+	color: white;
+	font-family:"MELANKOLIA";
+	font-size: 25px;
+	padding:10px;
+	word-spacing: 6px;
+	text-align: center;
+}
+
+.carh{
+	color:darkblue;
+	font-family:"MELANKOLIA";
+	font-size: 40px;
+	padding:10px;
+	word-spacing: 6px;
+	text-align: center;
+}
+
+.carc{
+	color: black;
+	font-family:"cafÈ & brewery";
+	font-size: 30px;
+	padding:2px;
+	font-weight: 200;
+	word-spacing: 6px;
+	text-align: center;
+}
+
+.bukpad{
+	padding-top: 70px;
+	padding-left: 10px;
+}
+
+.sertitle{
+	color: #01579B;
+	font-family:"COCOMAT";
+	font-size: 25px;
+	padding:1px;
+	
+	word-spacing: 6px;
+	text-align: center;
+}
+
+.serdes{
+	color: black;
+	font-family:"cafÈ & brewery";
+	font-size: 17px;
+	padding:2px;
+	font-weight: 200;
+	word-spacing: 5px;
+	text-align: left;
+}
+
+
+.carousel-control.right, .carousel-control.left {
+    background-image: none;
+    color: darkblue;
+}
+
+.carousel-indicators li {
+    border-color: darkblue;
+}
+
+.carousel-indicators li.active {
+    background-color: darkblue;
+}
+
+.item h4 {
+    
+    line-height: 1.375em;
+    font-weight: 400;
+    font-style: italic;
+    margin: 70px 0;
+}
+
+.item span {
+    font-style: normal;
+	font-family:Calibri; 
+}
+
+.person {
+    border: 10px solid transparent;
+    margin-bottom: 15px;
+    width: 65%;
+    height: 65%;
+    
+}
+.person:hover {
+    border-color: #81D4FA;
+}
+.panel {
+    border: 1px solid #90CAF9; 
+    border-radius:0;
+    transition: box-shadow 0.5s;
+}
+
+.panel:hover {
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+
+.panel-footer .btn:hover {
+    border: 1px solid #29B6F6;
+    background-color: #fff !important;
+    color: #29B6F6;
+}
+
+.panel-heading {
+    color: #fff !important;
+    background-color: #90CAF9 !important;
+    padding: 1px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.panel-footer {
+    background-color: #fff !important;
+	padding: 0;
+}
+
+.panel-footer h3 {
+	font-family:"cafÈ & brewery";
+    font-size: 25px;
+	font-weight: 200;
+	word-spacing: 5px;
+	text-align: center;
+}
+
+
+.panel-footer .btn {
+    margin: 15px 0;
+    background-color: #29B6F6;
+    color: #fff;
+}
+
+.name{
+	color: #01579B;
+	font-family:"Jerantet1977";
+	font-size: 40px;
+	padding:1px;
+	
+	word-spacing: 6px;
+	text-align: center;
+}
+
+.logo {
+    color: #448AFF;
+    font-size: 80px;
+	text-align: right;
+	padding: 10px;
+}
+
+.achbak{
+	
+	background-color: #90CAF9;
+	padding:20px;
+	
+	letter-spacing: 2px;
+	word-spacing: 6px;
+	line-height: 40px;
+}
+
+.achdes{
+	color: white;
+	font-family:"GROBOLD";
+	font-size: 25px;
+	padding:1px;
+	word-spacing: 6px;
+	text-align: center;
+}
+
+.achnum{
+	color: #0D47A1;
+	font-family:"Britannic";
+	font-size: 40px;
+	padding:1px;
+	word-spacing: 6px;
+	text-align: center;
+}
+
+.addr{
+	background-color: #90CAF9 !important;
+	color: black;
+	font-family:"cafÈ & brewery";
+	font-size: 20px;
+	padding:2px;
+	font-weight: 200;
+	word-spacing: 6px;
+	text-align: left;
+}
+
+
+.send:hover {
+    border: 1px solid #29B6F6;
+    background-color: #fff !important;
+    color: #29B6F6;
+}
+.send {
+	font-family:"Britannic";
+	font-size: 25px;
+    margin: 0 0;
+    background-color: #29B6F6;
+    color: #fff;
+}
+
+.cbucket{
+	color: #424242;
+	font-family:"GROBOLD";
+	font-size: 20px;
+	padding:1px;
+	word-spacing: 6px;
+	text-align: left;
+}
+.footer{
+	background-color: #0D47A1;
+	text-align: left;
+	padding: 5px;
+	word-spacing: 6px;
+	font-family:"cafÈ & brewery";
+	font-size: 20px;
+	color: white;
+	
+}
+.heart{
+	color: red;
+	font-size: 30px;
+}
+
+.top{
+	position: fixed;
+	bottom: 10px;
+    right: 23px;
+    
+}
+.top .glyphicon {
+    font-size: 25px;
+    margin-bottom: 20px;
+    color: #f4511e;
+	border: 10px solid transparent;
+}
+
+.top .glyphicon:hover {
+    font-size: 33px;
+    color: #f4511e;
+	
+}
+
+
+.slideanim {visibility:hidden;}
+.slide {
+    /* The name of the animation */
+    animation-name: slide;
+    -webkit-animation-name: slide; 
+    /* The duration of the animation */
+    animation-duration: 1s; 
+    -webkit-animation-duration: 1s;
+    /* Make the element visible */
+    visibility: visible; 
+}
+
+/* Go from 0% to 100% opacity (see-through) and specify the percentage from when to slide in the element along the Y-axis */
+@keyframes slide {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(70%);
+    } 
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+    } 
+}
+@-webkit-keyframes slide {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(70%);
+    } 
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+    }
+}
